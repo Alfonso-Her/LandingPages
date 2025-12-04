@@ -2,6 +2,7 @@
 
 ## Resumen
 Este proyecto es un **monorepo dockerizado** diseñado para la creación ágil de **landing pages** optimizadas para **SEO** y **viralidad**. El objetivo principal es validar ideas de negocio y SaaS de manera rápida y eficiente, bajo una filosofía de "David contra Goliat": maximizar impacto con recursos limitados. El código debe ser escalable, mantenible y seguir el principio **DRY** (Do Not Repeat Yourself).
+La idea actual no es comercializar esta plataforma, sino que es un proyecto pensando para que yo valide mis propias ideas de negocio y SaaS de manera rápida y eficiente. Si mas adelante es un proyecto que crea que puede tener interes lo sacaremos mas tarde de momento genera todos los datos con preguntas como si estuviesemos creando una landing page para I love pdf.
 
 ## Stack Tecnológico
 - **Frontend**: Svelte (JS, HTML, CSS) BUN 
